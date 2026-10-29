@@ -87,8 +87,8 @@ une branche associée à ce dépôt et une connexion au compte GitHub.
 
 ## Récupérer le projet depuis GitHub
 
-URL prévue : <https://github.com/vainqueur1110/mon_premier_flutter>.
-Les commandes suivantes seront utilisables une fois le dépôt créé et publié :
+Dépôt GitHub : <https://github.com/vainqueur1110/mon_premier_flutter>.
+Pour récupérer le projet sur un autre ordinateur :
 
 ```powershell
 git clone https://github.com/vainqueur1110/mon_premier_flutter.git
